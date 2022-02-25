@@ -3,7 +3,7 @@ ESP8266 Web Server (WiFi/AP)
 
 <b>Operation:</b>
 - The ship runs in AP mode by default.
-- Create a webserver to controll the ESP8266.
+- Automatically creating a webserver to controll the ESP8266.
 - Use the ship to controll the built in LED.
 - Save ssid and password to EEPROM.
 - Customize MAC address in station mode and save to EEPROM.
