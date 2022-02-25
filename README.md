@@ -8,6 +8,8 @@ ESP8266 Web Server (WiFi/AP)
 - Save ssid and password to EEPROM.
 - Customize MAC address in station mode and save to EEPROM.
 
+![alt text](https://github.com/IhebBelaiba/ESP8266-WebServer/main/Screenshots/main.png?raw=true)
+
 <b>Usage (Using browser):</b>
 1. Connect your computer/phone to the Access Point created by the ESP8266.
 2. Use your web browser to access the Web Server on http://192.168.4.1/ (default IP address for ESP8266)
