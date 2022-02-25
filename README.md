@@ -1,6 +1,13 @@
 # ESP8266 Web Server (WiFi/AP)
 ESP8266 Web Server (WiFi/AP)
 
+<b>Operation:</b>
+- The ship runs in AP mode by default.
+- Create a webserver to controll the ESP8266.
+- Use the ship to controll the built in LED.
+- Save ssid and password to EEPROM.
+- Customize MAC address in station mode and save to EEPROM.
+
 <b>Usage (Using browser):</b>
 1. Connect your computer/phone to the Access Point created by the ESP8266.
 2. Use your web browser to access the Web Server on http://192.168.4.1/ (default IP address for ESP8266)
