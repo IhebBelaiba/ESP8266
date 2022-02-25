@@ -17,8 +17,12 @@ ESP8266 Web Server (WiFi/AP)
 4. The microchip will restart and try to connect to the Network you selected. If the connection attempt times out (15 seconds) the ESP8266 will run in Access Point mode again.
 5. Use serial monitor on 115200 baud to read the new IP address given the ESP8266.
 
+![alt text](https://raw.githubusercontent.com/IhebBelaiba/ESP8266-WebServer/main/Screenshots/WiFi.png)
+
 <b>Notice:</b></br>
 If you have a MAC filtering system on your router. You can customize your microship MAC address.
 1. Use your web browser to access the Web Server on the default IP address or the new one from the serial monitor if your microship is already connected to a Network.
 3. Click "MAC" button. Enter your custom MAC address in hexadecimal in the form 00:00:00:00:00:00 and hit "Set".
 4. The microchip will restart and use the new MAC address to connect to the Network saved on the memory if it exists.
+
+![alt text](https://raw.githubusercontent.com/IhebBelaiba/ESP8266-WebServer/main/Screenshots/MAC.png)
