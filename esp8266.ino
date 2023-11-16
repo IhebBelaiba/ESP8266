@@ -30,7 +30,7 @@ const String HtmlHtmlClose =
 const String HtmlWTitle = 
 "<h1>Connect to network</h1><br/>\n";
 const String HtmlForm1 =
-"<form method='POST' action='/NEWMAC'>"
+"<form method='POST' action='/NEWWIFI'>"
 "<label for='ssid'>Wi-Fi:</label><br/><select id='ssid' name='ssid'>";
 const String HtmlForm2 =
 "</select><br><br><label for='pass'>Password:</label><br/>"
